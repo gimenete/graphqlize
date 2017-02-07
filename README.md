@@ -44,7 +44,7 @@ class Comment {
 
 Just using `graphqlize`
 
-````javascript
+```javascript
 const { createSchema } = require('graphqlize')
 const schema = createSchema(Query, Comment)
 ```

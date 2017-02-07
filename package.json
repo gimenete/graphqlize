@@ -1,6 +1,6 @@
 {
   "name": "graphqlize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expose GraphQL services from Plain JavaScript Classes",
   "main": "src/main/index.js",
   "repository": {
