@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Expose GraphQL services from Plain JavaScript Classes",
   "main": "src/main/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimenete/graphqlize.git"
+  },
   "scripts": {
     "test": "ava src/test"
   },
